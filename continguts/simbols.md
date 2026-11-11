@@ -8,8 +8,6 @@ La Natàlia gairebé mai no diu el que sent. Ho diuen per ella els coloms, la pl
 
 ### Del balcó al passadís
 
-Els coloms arriben a la novel·la com una joguina: un colom que apareix al balcó i que en Quimet vol guardar per al nen. Després ve el colomar al terrat (cap. XIII) i, al final, els ocells envaeixen el pis (cap. XXI). Quan la Natàlia arriba de treballar, els troba corrent pel passadís. A en Quimet, els coloms li donen projectes i conversa amb els amics. A ella, hores de feina i una olor que se li queda a la roba fins i tot quan surt al carrer.
-
 **Què representen.** Els coloms són el domini d'en Quimet dins de casa. Ocupen l'espai de la Natàlia de la mateixa manera que el nom de Colometa n'ocupa la identitat. No és casual que ella porti el nom dels ocells que l'ofeguen: per al marit, és un colom més.
 
 **Com canvien.** Primer li provoquen angoixa i esgotament (cap. XXII). Després arriba la rebel·lió: remena els ous perquè no en surtin pollets (cap. XXV). És un gest que costa de mirar, però és la primera decisió que pren tota sola. Amb la guerra, l'últim colom mor alhora que arriba la notícia de la mort d'en Quimet (cap. XXXII), i el símbol desapareix amb l'home que el representava. Però no del tot: en el pitjor moment de la fam, la Natàlia s'imagina que vola com un colom (cap. XXXV), i quan ja és feliç amb l'Antoni, els somia bonics (cap. XLIII). La novel·la s'acaba amb uns ocells als tolls d'aigua, que ja no són els coloms d'en Quimet.
