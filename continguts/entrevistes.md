@@ -18,10 +18,6 @@ Sobre el paper, moltíssim. La Constitució de 1931 reconeix el vot femení, i e
 
 Amb gana i amb por. Però el que més marcava el dia a dia era el menjar: les cues, els preus, no saber què posaries a taula. Al dietari de Francisca Rius, una artista barcelonina, hi surten dones que no deixaven la cua ni quan sonaven les sirenes, perquè perdre el torn volia dir tornar a casa sense res. Per això tantes famílies van enviar els fills a colònies, com fa la Natàlia amb l'Antoni.
 
-### I quan s'acaba la guerra, què li espera a una dona com ella?
-
-Una situació molt dura, per tres motius. Primer, és vídua d'un milicià del bàndol perdedor, i aquestes vídues no van tenir dret a cap pensió de l'Estat fins al 1979. Segon, la fam no s'acaba amb la guerra: el racionament dura fins al 1952, i el que falta s'ha de comprar a l'estraperlo, molt més car. I tercer, el franquisme torna les dones a la submissió legal: la dona casada necessita permís del marit per treballar o per obrir un compte al banc, i això no canvia fins al 1975. Una vídua pobra i sense estudis tenia poques sortides: fer feines, viure de la caritat o tornar-se a casar. La Natàlia passa per la primera i acaba a la tercera.
-
 ## La psicòloga
 
 **Clara Bosch** és psicòloga clínica i fa anys que treballa amb dones que han patit violència de parella. Li vam demanar que llegís la novel·la pensant en la Natàlia com si fos una pacient. Abans de començar, ho deixa clar: «Un personatge no es pot diagnosticar, però sí que hi reconec coses que veig cada setmana a la consulta.»
@@ -33,10 +29,6 @@ Jo diria que és el primer senyal de tot el que vindrà. Quan algú et posa un n
 ### Per què no s'hi enfronta o no marxa?
 
 Perquè no té on anar. Està sola, no té una família que l'ajudi, depèn econòmicament del marit i tothom li diu que el seu lloc és a casa. Quan durant anys veus que facis el que facis res no canvia, deixes d'intentar-ho. En psicologia en diem indefensió apresa. Per això em sembla tan important l'escena dels ous dels coloms. Remenar-los d'amagat és la seva primera resistència. És petita, però és la primera vegada que no espera el permís de ningú.
-
-### En la postguerra, la Natàlia es compara amb el suro. Què et suggereix aquesta imatge?
-
-Em sembla una descripció molt exacta d'una cosa que veig sovint després d'un trauma: l'anestèsia emocional. El suro és lleuger, sura i no sent res. Després de perdre el marit, passar gana i veure els fills patir, la ment es protegeix desconnectant les emocions per poder continuar funcionant. També em crida l'atenció que la Natàlia expliqui coses terribles amb una calma estranya, com si li haguessin passat a una altra persona. És una altra manera de protegir-se del dolor.
 
 *Imatge del suro: cita i pàgina pendents de l'edició llegida.*
 
