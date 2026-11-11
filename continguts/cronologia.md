@@ -46,6 +46,6 @@ El maig de 1939 s'estableix el racionament a tot l'Estat, i no s'acabarà fins a
 
 ### Casada i sota tutela
 
-Amb el franquisme, les dones perden els drets de la República. El 1939 s'anul·len el divorci i el matrimoni civil, i torna el Codi Civil de 1889. La dona casada necessita la «llicència marital», el permís del marit, per treballar, signar un contracte o obrir un compte al banc, i aquesta norma no desapareix fins al maig de 1975. El Fuero del Trabajo de 1938 ja anunciava que l'Estat «alliberaria» la dona casada del taller i de la fàbrica, és a dir, que la volia a casa. La Secció Femenina difonia el model de dona obedient, esposa i mare. La Natàlia hi encaixa gairebé sense voler-ho: la seva seguretat torna a dependre d'un marit, encara que aquesta vegada sigui un home bo.
+Amb el franquisme, les dones perden els drets de la República. El 1939 s'anul·len el divorci i el matrimoni civil, i torna el Codi Civil de 1889. La dona casada necessita la «llicència marital», el permís del marit, per treballar, signar un contracte o obrir un compte al banc, i aquesta norma no desapareix fins al maig de 1975. El Fuero del Trabajo de 1938 ja anunciava que l'Estat "alliberaria" la dona casada del taller i de la fàbrica, és a dir, que la volia a casa. La Secció Femenina difonia el model de dona obedient, esposa i mare. La Natàlia hi encaixa gairebé sense voler-ho: la seva seguretat torna a dependre d'un marit, encara que aquesta vegada sigui un home bo.
 
 [Cronologia dels drets de les dones · Ajuntament de l'Hospitalet](https://www.l-h.cat/gdocs/d5910881.pdf)
