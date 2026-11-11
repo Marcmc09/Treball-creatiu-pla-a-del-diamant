@@ -16,7 +16,7 @@ Sobre el paper, moltíssim. La Constitució de 1931 reconeix el vot femení, i e
 
 ### Com es vivia la guerra a la rereguarda?
 
-Amb gana i amb por. Barcelona va patir 194 bombardejos, i els del 16 al 18 de març de 1938 van ser els pitjors de tota la guerra. Però el que més marcava el dia a dia era el menjar: les cues, els preus, no saber què posaries a taula. Al dietari de Francisca Rius, una artista barcelonina, hi surten dones que no deixaven la cua ni quan sonaven les sirenes, perquè perdre el torn volia dir tornar a casa sense res. Per això tantes famílies van enviar els fills a colònies, com fa la Natàlia amb l'Antoni. Les colònies escolars van treure de les ciutats més de 50.000 nens i nenes.
+Amb gana i amb por. Però el que més marcava el dia a dia era el menjar: les cues, els preus, no saber què posaries a taula. Al dietari de Francisca Rius, una artista barcelonina, hi surten dones que no deixaven la cua ni quan sonaven les sirenes, perquè perdre el torn volia dir tornar a casa sense res. Per això tantes famílies van enviar els fills a colònies, com fa la Natàlia amb l'Antoni.
 
 ### I quan s'acaba la guerra, què li espera a una dona com ella?
 
