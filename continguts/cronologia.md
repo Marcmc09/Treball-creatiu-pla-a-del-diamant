@@ -30,7 +30,7 @@ Barcelona va ser bombardejada 194 vegades durant la guerra. Els atacs més mort�
 
 ### Una feina en lloc del salfumant
 
-Acabada la guerra, la Natàlia és vídua, no té feina i ja ho ha venut gairebé tot. Arriba a decidir que matarà els fills i que es matarà ella amb salfumant (cap. XXXV). Llavors l'Antoni, l'adroguer, la crida des del carrer, li ofereix feina a casa seva i li posa menjar al cabàs. Ella deixa l'ampolla de salfumant al taulell. Abans de ser el seu segon marit, l'Antoni és l'home que li dona un sou. Més endavant li proposa casar-s'hi i li explica que la guerra l'ha deixat sense poder tenir fills (cap. XXXIX). Es casen (cap. XLI) i, amb ell, la Colometa torna a ser la senyora Natàlia.
+Acabada la guerra, la Natàlia és vídua, no té feina i ja ho ha venut gairebé tot. Arriba a decidir que matarà els fills i que es matarà ella amb salfumant (cap. XXXV). Llavors l'Antoni, l'adroguer, la crida des del carrer, li ofereix feina a casa seva i li posa menjar al cabàs. Ella deixa l'ampolla de salfumant al taulell. Més endavant li proposa casar-s'hi i li explica que la guerra l'ha deixat sense poder tenir fills (cap. XXXIX). Es casen (cap. XLI) i, amb ell, la Colometa torna a ser la senyora Natàlia.
 
 ### 26 de gener de 1939: Barcelona ocupada
 
