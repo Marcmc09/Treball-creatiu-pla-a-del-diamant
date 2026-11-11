@@ -22,10 +22,6 @@ Amb gana i amb por. Barcelona va patir 194 bombardejos, i els del 16 al 18 de ma
 
 Una situació molt dura, per tres motius. Primer, és vídua d'un milicià del bàndol perdedor, i aquestes vídues no van tenir dret a cap pensió de l'Estat fins al 1979. Segon, la fam no s'acaba amb la guerra: el racionament dura fins al 1952, i el que falta s'ha de comprar a l'estraperlo, molt més car. I tercer, el franquisme torna les dones a la submissió legal: la dona casada necessita permís del marit per treballar o per obrir un compte al banc, i això no canvia fins al 1975. Una vídua pobra i sense estudis tenia poques sortides: fer feines, viure de la caritat o tornar-se a casar. La Natàlia passa per la primera i acaba a la tercera.
 
-### Per què la feina a l'adrogueria és un gir tan important?
-
-Perquè és el primer cop en molts anys que algú li ofereix una sortida real. Si mires una cartilla de racionament, veus quina ració tocava a cada persona; la novel·la et fa veure la dona que l'havia de fer arribar a taula. Quan l'Antoni li dona feina i li posa menjar al cabàs, canvia de cop el que podran menjar els fills. Abans de ser el seu marit, és l'home que li paga un sou. A la Barcelona de 1939, això podia ser la diferència entre viure i no viure.
-
 ## La psicòloga
 
 **Clara Bosch** és psicòloga clínica i fa anys que treballa amb dones que han patit violència de parella. Li vam demanar que llegís la novel·la pensant en la Natàlia com si fos una pacient. Abans de començar, ho deixa clar: «Un personatge no es pot diagnosticar, però sí que hi reconec coses que veig cada setmana a la consulta.»
@@ -75,16 +71,6 @@ Amb un llenguatge que imita la parla: el català popular de Gràcia, amb frases 
 *Fragment amb polisíndeton del capítol final: cita i pàgina pendents de l'edició llegida.*
 
 [Llegir el passatge final · Departament de Cultura](https://drac.cultura.gencat.cat/bitstream/handle/20.500.12368/36945/Textos%20de%20Merc%C3%A8%20Rodoreda.pdf?isAllowed=y&sequence=1)
-
-### Per què hi ha tants objectes a la novel·la?
-
-Perquè els objectes parlen per ella. Rodoreda mateixa ho explica al pròleg: a la novel·la hi ha moltes coses, com l'embut, el cargol de mar, les balances o el ganivet, i cap no hi és per casualitat. La Natàlia no sap o no pot dir el que sent, i els objectes ho carreguen per ella. És el que anomenem realisme simbòlic: tot sembla quotidià, però tot té un segon sentit. Els coloms en són l'exemple més clar.
-
-### Quines influències s'hi poden trobar?
-
-La mateixa Rodoreda en cita unes quantes. El *Càndid* de Voltaire, per la mirada ingènua del personatge. El monòleg final de l'*Ulisses* de James Joyce, per al final. I la «Descripció de la donzella» de Bernat Metge, que li va inspirar la descripció d'en Quimet del capítol VIII. És una escriptura que neix del record, en la línia de Proust, Joyce o Virginia Woolf.
-
-[Carme Arnau, estudi de l'obra de postguerra de Rodoreda · Institut d'Estudis Catalans](https://publicacions.iec.cat/repository/pdf/00000327/00000097.pdf)
 
 ### Com s'ha d'entendre el final?
 
