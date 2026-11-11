@@ -6,8 +6,6 @@ La Natàlia és una noia de Gràcia, de família humil, que treballa de dependen
 
 El que fa especial aquest primer capítol és des d'on ens l'expliquen. Qui parla és la mateixa Natàlia, molts anys després, i el que recorda no és tant el que diu en Quimet com el que sentia ella. Ell té les paraules i ella té el cos i la memòria. Aquesta diferència es repeteix al llarg de tota la novel·la.
 
-Quan es casen, en Quimet ho decideix gairebé tot, el pis, els mobles i, més endavant, els coloms. El que comença com un colomar al terrat acaba amb ocells corrent pel passadís. Mentrestant, la Natàlia fa feines a casa d'uns senyors, cuida els fills, l'Antoni i la Rita, i neteja la brutícia dels coloms. Només amb la senyora Enriqueta, la veïna, gosa dir en veu alta el que amb el marit es queda a mig dir.
-
 Arriba un moment en què deixa d'esperar que algú l'escolti i actua tota sola, remena els ous dels coloms perquè no en surtin pollets. Ho fa d'amagat i no ho explica a ningú. És un gest petit, però és la primera decisió que pren per ella mateixa. Aquí comença el camí que la portarà, molts anys després, a recuperar el nom de Natàlia.
 
 <!-- Per integrar una cita, escriu-la en un paràgraf nou i indica-hi la pàgina de la teva edició. -->
