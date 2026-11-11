@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="ca">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f4ea">
+  <meta name="description" content="Identitat, silenci i supervivència. Un reportatge interactiu en català sobre La plaça del Diamant, de Mercè Rodoreda.">
+  <title>Em dic Natàlia · La plaça del Diamant</title>
+  <link rel="icon" href="./assets/colom.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./estil.css">
+  <script src="./vendor/marked.js" defer></script>
+  <script src="./reportatge.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#perfil">Salta al reportatge</a>
+  <header class="masthead">
+    <div class="wrap topbar">
+      <a href="#portada" class="brand"><img src="./assets/colom.svg" width="34" height="34" alt=""><span>Em dic Natàlia</span></a>
+      <nav class="chapters" aria-label="Capítols principals">
+        <a href="#perfil">El perfil</a><a href="#cronologia">Cronologia</a><a href="#simbols">Símbols</a><a href="#entrevistes">Entrevistes</a>
+      </nav>
+      <details class="index-menu" id="index-menu">
+        <summary>Índex <svg width="16" height="15" viewBox="0 0 16 15" aria-hidden="true"><path d="M1 3h14M1 7.5h14M1 12h14" fill="none" stroke="currentColor" stroke-width="1.2"/></svg></summary>
+        <nav aria-label="Índex complet">
+          <a href="#portada">Portada</a><a href="#perfil">Darrere de Colometa</a><a href="#cronologia">La vida, dins la història</a><a href="#simbols">Els símbols que parlen</a><a href="#entrevistes">Tres mirades sobre Natàlia</a><a href="#actualitat">Veus d’avui</a><a href="#conclusio">Conclusió personal</a><a href="#fonts">Fonts i crèdits</a>
+        </nav>
+      </details>
+    </div>
+  </header>
+  <main>
+    <section class="cover wrap" id="portada" aria-labelledby="cover-title">
+      <div class="cover-copy">
+        <p class="overline line-label">Reportatge interactiu</p>
+        <h1 id="cover-title">Em dic <em>Natàlia</em></h1>
+        <div id="cover-deck"><p class="subtitle">Identitat, silenci i supervivència</p><p>Un reportatge interactiu sobre <i>La plaça del Diamant</i>, de Mercè Rodoreda.</p></div>
+        <a class="primary" href="#perfil">Entra a la història <span aria-hidden="true">↓</span></a>
+      </div>
+      <figure class="cover-figure">
+        <div class="print-frame"><img src="./assets/placa-ball.webp" width="1536" height="1024" fetchpriority="high" alt="Una parella balla entre el veïnat sota les garlandes de la festa major."></div>
+        <figcaption><span id="cover-caption">El ball de festa major a la plaça del Diamant</span><span id="cover-location">Gràcia, Barcelona</span></figcaption>
+      </figure>
+    </section>
+    <div id="load-status" role="status" class="wrap load-status"></div>
+    <noscript><p class="wrap">Activa el JavaScript per llegir el reportatge i utilitzar-ne les fitxes.</p></noscript>
+    <div id="question-band" class="question-band" hidden>
+      <div class="wrap question-inner"><span class="question-label">La pregunta</span><p></p></div>
+    </div>
+    <section id="perfil" class="wrap section profile reading-layout" aria-labelledby="perfil-title">
+      <div class="profile-heading"><span class="overline line-label">El perfil</span><h2 id="perfil-title"></h2></div>
+      <div><div class="prose" id="perfil-copy"></div><a class="text-link" href="#cronologia">Situar aquestes escenes <span aria-hidden="true">↓</span></a></div>
+    </section>
+    <section class="chapter-wash" id="cronologia" aria-labelledby="cronologia-title">
+      <div class="wrap section"><div class="section-heading"><span class="overline line-label">Cronologia</span><h2 id="cronologia-title"></h2><div class="intro" id="cronologia-intro"></div></div>
+        <div id="timeline-tabs" class="timeline-tabs" role="tablist" aria-label="Etapes de la vida de Natàlia"></div><div id="timeline-panels"></div>
+      </div>
+    </section>
+    <section class="wrap section" id="simbols" aria-labelledby="simbols-title">
+      <div class="section-heading"><span class="overline line-label">Galeria de gravats</span><h2 id="simbols-title"></h2><div class="intro" id="simbols-intro"></div></div>
+      <div class="symbol-grid" id="symbol-buttons"></div><div id="symbol-panels"></div>
+    </section>
+    <section class="chapter-wash" id="entrevistes" aria-labelledby="entrevistes-title">
+      <div class="wrap section reading-layout"><div class="section-heading"><span class="overline line-label">Entrevistes</span><h2 id="entrevistes-title"></h2><div class="intro" id="entrevistes-intro"></div></div><div id="interviews"></div></div>
+    </section>
+    <section class="wrap section" id="actualitat" aria-labelledby="actualitat-title">
+      <div class="section-heading"><span class="overline line-label">Testimonis</span><h2 id="actualitat-title"></h2><div class="intro" id="actualitat-intro"></div></div><div id="cases" class="cases"></div>
+    </section>
+    <section id="conclusio" class="ending" aria-labelledby="conclusio-title"><div class="wrap section ending-layout">
+      <figure class="ending-image"><img loading="lazy" src="./assets/placa-alba.webp" width="1400" height="933" alt="La plaça de matinada, ara buida, amb una figura que hi camina sola."><figcaption>La tornada a la plaça, de matinada</figcaption></figure>
+      <div><span class="overline line-label">Conclusió personal</span><h2 id="conclusio-title"></h2><div class="prose" id="conclusio-copy"></div><a class="text-link" href="#portada">Torna al primer ball <span aria-hidden="true">↑</span></a></div>
+    </div></section>
+    <section class="wrap section credits" id="fonts" aria-labelledby="fonts-title"><h2 id="fonts-title"></h2><div id="source-list"></div></section>
+  </main>
+  <footer><div class="wrap"><a href="#portada" class="brand"><img src="./assets/colom.svg" width="28" height="28" alt=""><span>Em dic Natàlia</span></a><a class="text-link" href="#portada">Torna a l’inici <span aria-hidden="true">↑</span></a></div></footer>
+</body>
+</html>
