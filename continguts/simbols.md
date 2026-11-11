@@ -24,8 +24,6 @@ Els coloms arriben a la novel·la com una joguina: un colom que apareix al balc�
 
 Al ball, la plaça és plena de gent i la veu d'en Quimet arriba a tocar de l'orella de la Natàlia. Quan hi torna, molts anys després i de nit, les cases encara l'envolten, però la plaça és buida. Ara que hi ha lloc per moure's, ella sent que l'espai se li tanca al damunt. I aleshores crida.
 
-Les dues escenes funcionen com un mirall. Al principi sentim la veu del noi entre la música; al final sentim la d'ella, sola al mig de la plaça. El lloc on va rebre el sobrenom és el mateix on se'n desfà.
-
 **Per què dona títol a la novel·la.** Rodoreda la va presentar primer amb el títol de *Colometa*. El títol definitiu passa el focus del personatge al lloc on la seva vida gira dues vegades, i fa que la novel·la sigui circular: comença i acaba a la plaça. La mateixa autora va explicar que, al darrer capítol, la Colometa hi torna perquè prengui consciència que la seva vida d'ara és bona.
 
 > Cita i pàgina pendents de l'edició llegida. Descripció de la plaça quan la Natàlia hi torna (cap. XLIX).
