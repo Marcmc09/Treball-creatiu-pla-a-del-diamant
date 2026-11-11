@@ -13,6 +13,4 @@ L'escena que més m'ha impactat és la de la colònia, quan la Natàlia ha de de
 
 Responent a la pregunta del títol: quan torna a la plaça, la Natàlia no recupera la joventut ni res del que ha perdut. Recupera la seva veu. El crit és la primera cosa que diu per ella mateixa, i després pot tornar a casa i dormir. Per això crec que la paraula «contents», al final, no vol dir un final feliç de conte, sinó un final real: les ferides hi són, però la vida continua.
 
-Rodoreda va escriure aquesta novel·la el 1960, però els casos de Chanel Miller, Nadia Murad o les supervivents del Patronato demostren que trencar el silenci encara costa molt. Per mi, el més valuós del llibre és que t'ensenya a escoltar les persones que no parlen gaire.
-
-<!-- SIGNA AQUÍ: nom i cognoms, curs i institut. -->
+Marc Mercade        2n Batx A          Institut Maremar
