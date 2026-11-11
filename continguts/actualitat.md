@@ -1,6 +1,6 @@
 # Veus d'avui
 
-La Natàlia triga anys a poder cridar. Avui hi ha dones que han decidit explicar en públic el que els va passar, amb el seu propi nom. Hem triat tres casos que connecten amb la novel·la per tres camins diferents: el nom, el testimoni i la memòria.
+La Natàlia triga anys a poder cridar. Avui hi ha dones que han decidit explicar en públic el que els va passar, amb el seu propi nom. He triat dos casos que connecten amb la novel·la per tres camins diferents: el nom, el testimoni i la memòria.
 
 ## Chanel Miller
 
@@ -11,16 +11,6 @@ El 2015, Chanel Miller va ser agredida sexualment al campus de la Universitat de
 La connexió amb la Natàlia és directa. A la Natàlia, un home li imposa el nom la primera nit; la Chanel Miller decideix ella mateixa quan i com dona a conèixer el seu. Totes dues passen anys amb un nom que no és el seu, i totes dues el recuperen.
 
 [Llegir Chanel Miller a *Time* · 2020](https://time.com/5879561/chanel-miller-on-coming-forward-know-my-name/)
-
-## Nadia Murad
-
-### Donar testimoni
-
-L'agost de 2014, el grup terrorista Estat Islàmic va atacar el poble de Nadia Murad, a l'Iraq. Com moltes altres dones i nenes iazidites, va ser segrestada. Quan va aconseguir escapar, va decidir explicar en públic el que havia viscut, una cosa que moltes víctimes no poden fer per vergonya o per por. El seu testimoni va fer conèixer al món el genocidi contra el poble iazidita, i el 2018 va rebre el Premi Nobel de la Pau.
-
-El 2025 va escriure a la revista *Time* sobre el dia que va poder enterrar dos germans seus, l'Elias i en Jalo, assassinats el 2014 i identificats en una llista oficial de víctimes. No es conforma amb el número de la llista: explica que l'Elias era mecànic i en Jalo, soldador, i que tots dos eren pares de família. Com la Natàlia, Murad parla des de la supervivent que recorda, i és la seva veu la que fa que els seus germans no siguin només dos números.
-
-[Llegir Nadia Murad a *Time* · 2025](https://time.com/7309303/nadia-murad-iraq-bury-brothers/)
 
 ## Les supervivents del Patronato
 
