@@ -36,6 +36,4 @@ De matinada, la Natàlia surt de casa amb el ganivet de pelar patates i torna a 
 
 **Què representa.** Escriure el nom a la porta és una manera de deixar-lo allà, tancat al passat, a la casa on va ser Colometa. És gairebé un enterrament: la Colometa es queda a la porta i la Natàlia pot tornar a casa seva. A més, un objecte de cuina, de la feina de cada dia, es converteix en l'eina amb què, per primera vegada, és ella qui escriu la seva història. Rodoreda, al pròleg, el defineix com un símbol sexual. També s'hi pot llegir la ràbia continguda de tants anys, que per fi surt contra una porta i no contra ningú.
 
-Entre pronunciar un nom i ratllar-lo en una porta hi ha una diferència que es pot tocar: el ganivet hi deixa un solc, una prova que aquella dona va viure allà.
-
 > Cita i pàgina pendents de l'edició llegida. Inscripció a la porta de l'antiga casa (cap. XLIX).
