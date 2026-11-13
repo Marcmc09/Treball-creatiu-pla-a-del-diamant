@@ -29,8 +29,10 @@
 
 ## Crèdits
 
-*Em dic Natàlia* és un reportatge de literatura catalana de 2n de batxillerat. Les entrevistes són fictícies: les expertes són personatges inventats, però les dades surten de les fonts citades.
+*Em dic Natàlia* és un reportatge de literatura catalana de 2n de batxillerat. Les entrevistes són fictícies, les expertes són personatges inventats, però les dades surten de les fonts citades.
 
 Il·lustracions generades amb ChatGPT per a aquest reportatge. Les escenes de Gràcia són interpretacions visuals de la novel·la.
+
+Disseny i programació. La web s'ha programat amb ajuda d'eines d'intel·ligència artificial. Jo n'he decidit l'estructura, l'ordre de les seccions i he redactat tot el contingut de cada pàgina.
 
 <!-- Afegeix aquí el nom i el centre quan vulguis signar el reportatge. -->
