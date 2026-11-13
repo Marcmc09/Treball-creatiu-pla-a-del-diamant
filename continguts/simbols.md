@@ -12,8 +12,6 @@ La Natàlia gairebé mai no diu el que sent. Ho diuen per ella els coloms, la pl
 
 **Com canvien.** Primer li provoquen angoixa i esgotament (cap. XXII). Després arriba la rebel·lió i remena els ous perquè no en surtin pollets (cap. XXV). És un gest que costa de mirar, però és la primera decisió que pren tota sola. Amb la guerra, l'últim colom mor alhora que arriba la notícia de la mort d'en Quimet (cap. XXXII), i el símbol desapareix amb l'home que el representava. Però no del tot ja que en el pitjor moment de la fam, la Natàlia s'imagina que vola com un colom (cap. XXXV), i quan ja és feliç amb l'Antoni, els somia bonics (cap. XLIII). La novel·la s'acaba amb uns ocells als tolls d'aigua, que ja no són els coloms d'en Quimet.
 
-> Cita i pàgina pendents de l'edició llegida. Passatge del parrupeig dels coloms que la segueix fins i tot fora de casa.
-
 ## La plaça
 
 ![Un gravat de la plaça envoltada de cases de Gràcia](assets/simbol-placa.webp)
@@ -24,8 +22,6 @@ Al ball, la plaça és plena de gent i la veu d'en Quimet arriba a l'orella de l
 
 **Per què dona títol a la novel·la.** Rodoreda la va presentar primer amb el títol de *Colometa*. El títol definitiu passa el focus del personatge al lloc on la seva vida gira dues vegades, i fa que la novel·la sigui circular ja que comença i acaba a la plaça. La mateixa autora va explicar que, al darrer capítol, la Colometa hi torna perquè prengui consciència que la seva vida d'ara és bona.
 
-> Cita i pàgina pendents de l'edició llegida. Descripció de la plaça quan la Natàlia hi torna (cap. XLIX).
-
 ## El ganivet
 
 ![Un ganivet de pelar patates dibuixat amb tinta](assets/simbol-ganivet.webp)
@@ -35,5 +31,3 @@ Al ball, la plaça és plena de gent i la veu d'en Quimet arriba a l'orella de l
 De matinada, la Natàlia surt de casa amb el ganivet de pelar patates i torna a la casa on vivia amb en Quimet. Prova d'obrir la porta i després hi grava un nom amb la punta del ganivet. Hi escriu "Colometa". El primer cop, aquest nom el va pronunciar en Quimet; ara és ella qui decideix escriure'l, en aquella fusta i en aquella casa.
 
 **Què representa.** Escriure el nom a la porta és una manera de deixar-lo allà, tancat al passat, a la casa on va ser Colometa. És gairebé un enterrament, la Colometa es queda a la porta i la Natàlia pot tornar a casa seva. A més, un objecte de cuina, de la feina de cada dia. També s'hi pot llegir la ràbia continguda de tants anys, que per fi surt contra una porta i no contra ningú.
-
-> Cita i pàgina pendents de l'edició llegida. Inscripció a la porta de l'antiga casa (cap. XLIX).
