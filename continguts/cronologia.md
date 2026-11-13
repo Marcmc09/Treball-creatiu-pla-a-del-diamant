@@ -30,22 +30,22 @@ Barcelona va ser bombardejada 194 vegades durant la guerra. Els atacs més mort�
 
 ### Una feina en lloc del salfumant
 
-Acabada la guerra, la Natàlia és vídua, no té feina i ja ho ha venut gairebé tot. Arriba a decidir que matarà els fills i que es matarà ella amb salfumant (cap. XXXV). Llavors l'Antoni, l'adroguer, la crida des del carrer, li ofereix feina a casa seva i li posa menjar al cabàs. Ella deixa l'ampolla de salfumant al taulell. Més endavant es casen (cap. XLI) i, amb ell, la Colometa torna a ser la senyora Natàlia.
+Acabada la guerra, la Natàlia és vídua, no té feina i ja ho ha venut gairebé tot. Arriba a decidir que matarà els fills i que es matarà ella amb salfumant (cap. XXXV). Llavors l'Antoni, l'adroguer, la crida des del carrer, li ofereix feina a casa seva i li dona menjar. Ella deixa l'ampolla de salfumant. Més endavant es casen (cap. XLI) i, amb ell, la Colometa torna a ser la senyora Natàlia.
 
 ### 26 de gener de 1939: Barcelona ocupada
 
-Les tropes franquistes entren a Barcelona el 26 de gener de 1939. Per als vençuts comença una època de repressió i de por. La Natàlia és vídua d'un milicià republicà: les vídues com ella no van tenir dret a cap pensió de l'Estat fins a la Llei 5/1979, quaranta anys després.
+Les tropes franquistes entren a Barcelona el 26 de gener de 1939. Per als vençuts comença una època de repressió i de por. La Natàlia és vídua d'un combatent republicà i les vídues com ella no van tenir dret a cap pensió de l'Estat fins a quaranta anys després.
 
 [Llei 5/1979, de pensions a les vídues de la guerra · BOE](https://boe.es/boe_catalan/dias/1979/12/31/pdfs/A00045-00046.pdf)
 
 ### Una cartilla de racionament · 1939-1952
 
-El maig de 1939 s'estableix el racionament a tot l'Estat, i no s'acabarà fins al 1952. Fer arribar la ració a taula era feina de les dones. El que no donava la cartilla s'havia de buscar a l'estraperlo, el mercat negre, on els preus es podien multiplicar per deu.
+El maig de 1939 s'estableix el racionament a tot l'Estat, i no s'acabarà fins al 1952. Fer arribar el menjar a taula era feina de les dones. El que no donava la cartilla s'havia de buscar al mercat negre, on els preus es podien multiplicar per deu.
 
 [La cartilla de racionament · Museu d'Història de Catalunya](https://www.mhcat.cat/exposicions/exposicions_realitzades/el_farcell_de_la_postguerra/la_cartilla_de_racionament)
 
 ### Casada i sota tutela
 
-Amb el franquisme, les dones perden els drets de la República. El 1939 s'anul·len el divorci i el matrimoni civil, i torna el Codi Civil de 1889. La dona casada necessita la «llicència marital», el permís del marit, per treballar, signar un contracte o obrir un compte al banc, i aquesta norma no desapareix fins al maig de 1975. La Secció Femenina difonia el model de dona obedient, esposa i mare. La Natàlia hi encaixa gairebé sense voler-ho: la seva seguretat torna a dependre d'un marit, encara que aquesta vegada sigui un home bo.
+Amb el franquisme, les dones perden els drets de la República. El 1939 s'anul·len el divorci i el matrimoni civil, i torna el Codi Civil de 1889. La dona casada necessita el permís del marit, per treballar, signar un contracte o obrir un compte al banc, i aquesta norma no desapareix fins al maig de 1975. La Secció Femenina difonia el model de dona obedient, esposa i mare. La Natàlia hi encaixa gairebé sense voler-ho i la seva seguretat torna a dependre d'un marit, encara que aquesta vegada sigui un home bo.
 
 [Cronologia dels drets de les dones · Ajuntament de l'Hospitalet](https://www.l-h.cat/gdocs/d5910881.pdf)
