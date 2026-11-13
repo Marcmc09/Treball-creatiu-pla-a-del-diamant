@@ -6,11 +6,11 @@ La vida de la Natàlia va des d'abans de la República fins a la llarga postguer
 
 ### Un nom, un casament i un colomar
 
-Tot comença al ball de festa major (cap. I). En Quimet li posa el nom de Colometa, ella deixa el seu promès, en Pere, i al cap de poc temps es casen. Neixen dos fills, l'Antoni i la Rita. Un dia apareix un colom al balcó i en Quimet decideix fer un colomar al terrat (cap. XIII). Al cap d'un temps, els coloms ja són dins del pis (cap. XXI). La Natàlia aprèn què comporta cada decisió del marit perquè és ella qui ha de fer-hi lloc i netejar. Un capritx d'ell acaba organitzant el temps de tota la casa.
+Tot comença al ball de festa major (cap. I). En Quimet li posa el nom de Colometa, ella deixa el seu promès, en Pere, i al cap de poc temps es casen. Neixen dos fills, l'Antoni i la Rita. Un dia apareix un colom al balcó i en Quimet decideix fer un colomar al terrat (cap. XIII). Al cap d'un temps, els coloms ja són dins del pis (cap. XXI). La Natàlia aprèn què comporta cada decisió del marit perquè és ella qui ha de fer-hi lloc i netejar. 
 
 ### Les dones a les urnes · 1933
 
-El 19 de novembre de 1933 les dones voten per primera vegada en unes eleccions generals a Espanya on més de sis milions s'inscriuen al cens. A Barcelona, l'escriptora Aurora Bertrana es presenta per Esquerra Republicana i és la dona candidata que obté més vots: 122.285. Mentrestant, a casa de la Natàlia, fins i tot el nom l'ha triat el marit. Aquesta distància entre els drets que reconeix la llei i la vida real d'una dona humil és un dels temes de la novel·la.
+La República, proclamada el 14 d’abril de 1931 i viscuda a la novel·la com una festa al carrer (cap. XIV), reconeix el dret de vot de les dones. El 19 de novembre de 1933 les dones voten per primera vegada en unes eleccions generals a Espanya on més de sis milions s'inscriuen al cens. A Barcelona, l'escriptora Aurora Bertrana es presenta per Esquerra Republicana i és la dona candidata que obté més vots: 122.285. Mentrestant, a casa de la Natàlia, fins i tot el nom l'ha triat el marit. Aquesta distància entre els drets que reconeix la llei i la vida real d'una dona és un dels temes de la novel·la.
 
 [El vot femení a la Segona República · Generalitat de Catalunya](https://eleccions.gencat.cat/ca/informacio-electoral/resultats-IIRepublica/funcionament-particularitats-vot-femeni)
 
@@ -30,7 +30,7 @@ Barcelona va ser bombardejada 194 vegades durant la guerra. Els atacs més mort�
 
 ### Una feina en lloc del salfumant
 
-Acabada la guerra, la Natàlia és vídua, no té feina i ja ho ha venut gairebé tot. Arriba a decidir que matarà els fills i que es matarà ella amb salfumant (cap. XXXV). Llavors l'Antoni, l'adroguer, la crida des del carrer, li ofereix feina a casa seva i li posa menjar al cabàs. Ella deixa l'ampolla de salfumant al taulell. Més endavant li proposa casar-s'hi i li explica que la guerra l'ha deixat sense poder tenir fills (cap. XXXIX). Es casen (cap. XLI) i, amb ell, la Colometa torna a ser la senyora Natàlia.
+Acabada la guerra, la Natàlia és vídua, no té feina i ja ho ha venut gairebé tot. Arriba a decidir que matarà els fills i que es matarà ella amb salfumant (cap. XXXV). Llavors l'Antoni, l'adroguer, la crida des del carrer, li ofereix feina a casa seva i li posa menjar al cabàs. Ella deixa l'ampolla de salfumant al taulell. Més endavant es casen (cap. XLI) i, amb ell, la Colometa torna a ser la senyora Natàlia.
 
 ### 26 de gener de 1939: Barcelona ocupada
 
@@ -40,12 +40,12 @@ Les tropes franquistes entren a Barcelona el 26 de gener de 1939. Per als vençu
 
 ### Una cartilla de racionament · 1939-1952
 
-El maig de 1939 s'estableix el racionament a tot l'Estat, i no s'acabarà fins al 1952. Cada cupó de la cartilla corresponia a un producte i a un període, i qui s'ocupava dels àpats, gairebé sempre una dona, havia de calcular què li tocava i per a quants dies. El que no donava la cartilla s'havia de buscar a l'estraperlo, el mercat negre, on els preus es podien multiplicar per deu.
+El maig de 1939 s'estableix el racionament a tot l'Estat, i no s'acabarà fins al 1952. Fer arribar la ració a taula era feina de les dones. El que no donava la cartilla s'havia de buscar a l'estraperlo, el mercat negre, on els preus es podien multiplicar per deu.
 
 [La cartilla de racionament · Museu d'Història de Catalunya](https://www.mhcat.cat/exposicions/exposicions_realitzades/el_farcell_de_la_postguerra/la_cartilla_de_racionament)
 
 ### Casada i sota tutela
 
-Amb el franquisme, les dones perden els drets de la República. El 1939 s'anul·len el divorci i el matrimoni civil, i torna el Codi Civil de 1889. La dona casada necessita la «llicència marital», el permís del marit, per treballar, signar un contracte o obrir un compte al banc, i aquesta norma no desapareix fins al maig de 1975. El Fuero del Trabajo de 1938 ja anunciava que l'Estat "alliberaria" la dona casada del taller i de la fàbrica, és a dir, que la volia a casa. La Secció Femenina difonia el model de dona obedient, esposa i mare. La Natàlia hi encaixa gairebé sense voler-ho: la seva seguretat torna a dependre d'un marit, encara que aquesta vegada sigui un home bo.
+Amb el franquisme, les dones perden els drets de la República. El 1939 s'anul·len el divorci i el matrimoni civil, i torna el Codi Civil de 1889. La dona casada necessita la «llicència marital», el permís del marit, per treballar, signar un contracte o obrir un compte al banc, i aquesta norma no desapareix fins al maig de 1975. La Secció Femenina difonia el model de dona obedient, esposa i mare. La Natàlia hi encaixa gairebé sense voler-ho: la seva seguretat torna a dependre d'un marit, encara que aquesta vegada sigui un home bo.
 
 [Cronologia dels drets de les dones · Ajuntament de l'Hospitalet](https://www.l-h.cat/gdocs/d5910881.pdf)
